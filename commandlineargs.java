@@ -5,4 +5,4 @@ public class commandlineargs {
 		System.out.println("Welcome "+str1);
 		}
 }
-//2.Write a Program to accept a String as a command line argument and print a Welcome message as given below. 
+//Write a Program to accept a String as a command line argument and print a Welcome message as given below. 

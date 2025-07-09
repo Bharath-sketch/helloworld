@@ -5,7 +5,6 @@ public class sumof2 {
 		int b =Integer.parseInt(args[1]);
 		int sum =a+b;
 		System.out.println("The sum of"+a+"and"+b+ "is"+sum);
-		
 	}
-
 }
+//Write a Program to accept two integers as command line arguments and print the sum of the two numbers 
